@@ -1,0 +1,1 @@
+#this is an example of OCR with tesseract in python.
