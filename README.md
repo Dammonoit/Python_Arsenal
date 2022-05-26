@@ -1,7 +1,7 @@
 ## **Created By -** <br/>
    # <font color=red>**Dharmendra Choudhary**</font>  
     
-   ## <font color=red>**VIT university,Vellore,Tamil Nadu,India**</font>
+   ## <font color=red>**CSE from VIT university,Vellore,Tamil Nadu,India**</font>
 [1.1]: https://i.imgur.com/IbLg2tB.png?2 (twitter click here)
 [1.2]: https://i.imgur.com/huhwaQ2.png?2 (facebook click here)
 [1.3]: https://i.imgur.com/gXipWFn.png?2 (github click here)
