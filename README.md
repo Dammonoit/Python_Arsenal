@@ -9,4 +9,4 @@
 **[[3]]   `Python Tutorial Net` :  <https://www.pythontutorial.net/>** <br/>
 
 
-### ** `LICENSE` :  <https://github.com/Dammonoit/Python_Arsenal/blob/master/LICENSE>** <br/>
+### **LICENSE** :  <https://github.com/Dammonoit/Python_Arsenal/blob/master/LICENSE>
