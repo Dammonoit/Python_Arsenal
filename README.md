@@ -17,3 +17,4 @@
  ### **Bibliography.**
 **[[1]]   `Python Course` :  <https://www.python-course.eu/>** <br/>
 **[[2]]   `Python Tutorial` :  <https://docs.python.org/3/tutorial/index.html>** <br/>
+**[[3]]   `Python Tutorial Net` :  <https://www.pythontutorial.net/>** <br/>
