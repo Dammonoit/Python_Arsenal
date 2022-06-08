@@ -15,7 +15,7 @@
   </p>
 
   <p align="center">
-    <a href="#https://github.com/Dammonoit/Python_Arsenal/blob/master/Python%20Basics%20to%20advanced/Python_Modules_and_Packages.ipynb">View Demo</a>
+    <a href="https://github.com/Dammonoit/Python_Arsenal/blob/master/Python%20Basics%20to%20advanced/Python_Modules_and_Packages.ipynb">View Demo</a>
     ·
     <a href="href="https://github.com/Dammonoit/Python_Arsenal/issues">Report Bug</a>
     ·
